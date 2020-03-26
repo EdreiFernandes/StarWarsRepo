@@ -3,3 +3,5 @@ Coruscant
 Tatooine
 Naboo
 Lothal
+Hoth
+Endor
