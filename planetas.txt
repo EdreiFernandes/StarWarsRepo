@@ -5,3 +5,6 @@ Naboo
 Lothal
 Hoth
 Endor
+Jakku
+Dantoine
+Yaven 4
