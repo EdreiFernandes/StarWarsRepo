@@ -7,4 +7,6 @@ Hoth
 Endor
 Mustafar
 Geonosis
-
+Jakku
+Dantoine
+Yaven 4
